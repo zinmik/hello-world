@@ -1,2 +1,3 @@
 # hello-world
 První pokus...
+Učím se základy práce s GitHubem.
